@@ -263,7 +263,7 @@ export const PROJECTS = [
   {
     title: "Spring Boot & Angular :IT support App - IT Resource Management System",
    
-    image: "/projectsCover/it.webp",
+    image: "/projectsCover/It.webp",
     link: "https://github.com/TogashiCoder/IT_Support_Full-Stack_Application",
   },
 ] as const;
