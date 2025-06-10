@@ -41,7 +41,7 @@ export const HeroContent = () => {
           className="flex justify-center md:justify-start mb-2"
         >
           <Image
-            src="/headShot/profile.jpg" // Replace with your actual headshot path
+            src="/headShot/profile.png" // Replace with your actual headshot path
             alt="Profile Headshot"
             height={150}
             width={150}
